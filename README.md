@@ -1,0 +1,2 @@
+# Implementation_of_SOCKETS_in_OS
+Firstly, you have to install java compiler such as intellij ide from this link https://www.jetbrains.com/idea/download/#section=windows,   then compile them to implement the socket concept such that in one project there are two java classes files firstly execute server class then client class such that client requests server's  date from server and show on client terminal. So they are connected and socket is implemented.
